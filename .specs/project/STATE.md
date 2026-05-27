@@ -3,8 +3,8 @@
 ## Session: 2026-05-27
 
 **Status:** Initial setup
-**Current focus:** Project initialization
-**Handoff:** H001 (`.specs/handoffs/H001--init.md`) — ✅ Active
+**Current focus:** Milestone 1 — Foundation (Setup)
+**Handoff:** H002 (`.specs/handoffs/H002--setup.md`) — ✅ Active
 
 ## Decisions
 
@@ -27,8 +27,8 @@ None.
 
 ## Todo
 
-- [ ] Iniciar primeira feature (Specify)
-- [ ] Definir setup do repositório
+- [x] Milestone 1 — Foundation (Setup)
+- [ ] Milestone 2 — Specify: Integração produção local (UBS/IDS)
 
 ## References
 

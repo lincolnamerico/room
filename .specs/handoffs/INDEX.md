@@ -1,8 +1,8 @@
 ---
 title: Handoff Chain Index
 description: Central registry of all handoffs in the development cycle. Every step produces one entry.
-total_handoffs: 1
-current: H001
+total_handoffs: 2
+current: H002
 last_updated: 2026-05-27
 ---
 
@@ -16,7 +16,8 @@ last_updated: 2026-05-27
 
 | # | File | Stage | From | To | Date | Git Commit | Status |
 |---|------|-------|------|----|------|------------|--------|
-| 1 | [H001--init.md](./H001--init.md) | Project initialization | DeepSeek | Next agent | 2026-05-27 | `822ee8c` | ✅ Active |
+| 1 | [H001--init.md](./H001--init.md) | Project initialization | DeepSeek | Setup agent | 2026-05-27 | `822ee8c` | 📦 Archived |
+| 2 | [H002--setup.md](./H002--setup.md) | M1 — Foundation (Setup) | DeepSeek | Feature agent | 2026-05-27 | `833128d` | ✅ Active |
 
 ## Legend
 
