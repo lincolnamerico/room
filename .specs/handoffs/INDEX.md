@@ -16,7 +16,7 @@ last_updated: 2026-05-27
 
 | # | File | Stage | From | To | Date | Git Commit | Status |
 |---|------|-------|------|----|------|------------|--------|
-| 1 | [H001--init.md](./H001--init.md) | Project initialization | DeepSeek | Next agent | 2026-05-27 | — | ✅ Active |
+| 1 | [H001--init.md](./H001--init.md) | Project initialization | DeepSeek | Next agent | 2026-05-27 | `822ee8c` | ✅ Active |
 
 ## Legend
 

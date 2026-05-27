@@ -104,9 +104,10 @@ Milestone 1 — Foundation (Setup)
 
 | | |
 |-|-|
-| Branch | `main` (to be created) |
-| Uncommitted | `.specs/` directory contents |
-| GitHub | Not yet configured |
+| Branch | `main` |
+| Uncommitted | None |
+| GitHub | `https://github.com/lincolnamerico/room.git` |
+| Last Commit | `822ee8c` feat(init): initial project structure + SDD + handoff chain |
 
 ---
 
